@@ -1,6 +1,9 @@
 """
 Runtime: 60 ms, faster than 70.15% of Python3 online submissions for Two Sum.
 Memory Usage: 15 MB, less than 7.20% of Python3 online submissions for Two Sum
+原创作者： JustModesty谦逊
+Bilibili：https://www.bilibili.com/video/av71362704/
+Youtube：https://www.youtube.com/watch?v=03wdkQsa49c&t=66s
 """
 class Solution:
     def twoSum(self, nums, target):
