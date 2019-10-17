@@ -1,9 +1,11 @@
 """
-Runtime: 60 ms, faster than 70.15% of Python3 online submissions for Two Sum.
-Memory Usage: 15 MB, less than 7.20% of Python3 online submissions for Two Sum
+以下代码在2019年10月17日在力扣通过执行：
+执行用时 :64 ms, 在所有 python3 提交中击败了91.28%的用户
+内存消耗 :14.9 MB, 在所有 python3 提交中击败了5.69%的用户
 原创作者： JustModesty谦逊
 Bilibili：https://www.bilibili.com/video/av71362704/
 Youtube：https://www.youtube.com/watch?v=03wdkQsa49c&t=66s
+代码存放在Github: https://github.com/JustModesty/Leetcode-Python-Java-Solution
 """
 class Solution:
     def twoSum(self, nums, target):
