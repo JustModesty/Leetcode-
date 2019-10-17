@@ -2,6 +2,9 @@
 以下代码在2019年10月16日力扣通过执行：
 执行用时：2 ms, 在所有 java 提交中击败了99.99%的用户
 内存消耗 :43.4 MB, 在所有 java 提交中击败了88.80%的用户
+原创作者： JustModesty谦逊
+Bilibili：https://www.bilibili.com/video/av71404492/
+Youtube：https://www.youtube.com/watch?v=dBhFLo_IOU0
  */
 
 /**

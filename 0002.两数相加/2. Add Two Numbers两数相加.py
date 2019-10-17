@@ -2,6 +2,9 @@
 以下代码在2019年10月16日可以正常执行：
 执行用时：52 ms, 在所有 python 提交中击败了94.51%的用户
 内存消耗 :11.9 MB, 在所有 python 提交中击败了16.63%的用户
+原创作者： JustModesty谦逊
+Bilibili：https://www.bilibili.com/video/av71404492/
+Youtube：https://www.youtube.com/watch?v=dBhFLo_IOU0
 """
 
 # Definition for singly-linked list.
@@ -19,6 +22,7 @@ class Solution(object):
         """
         carry = 0
         value = l1.val + l2.val
+        # carry值更新规则是sum//10
         carry = value // 10
         value = value % 10
         head = ListNode(value)
