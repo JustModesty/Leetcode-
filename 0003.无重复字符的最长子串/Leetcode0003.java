@@ -3,9 +3,8 @@
 执行用时：13 ms, 在所有 java 提交中击败了76.31%的用户
 内存消耗 :37.3 MB, 在所有 java 提交中击败了93.56%的用户
 原创作者： JustModesty谦逊
-视频讲解：
-Bilibili：
-Youtube：
+Bilibili：https://www.bilibili.com/video/av71524007/
+Youtube：https://www.youtube.com/watch?v=GYTS72Axcg8
  */
 
 import java.util.HashMap;

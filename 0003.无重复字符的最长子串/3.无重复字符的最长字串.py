@@ -3,9 +3,8 @@
 执行用时：68 ms, 在所有 python3 提交中击败了95.27%的用户
 内存消耗 :13.9 MB, 在所有 python3 提交中击败了5.01%的用户
 原创作者： JustModesty谦逊
-视频讲解：
-Bilibili：
-Youtube：
+Bilibili：https://www.bilibili.com/video/av71524007/
+Youtube：https://www.youtube.com/watch?v=GYTS72Axcg8
 """
 
 class Solution:
