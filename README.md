@@ -9,4 +9,5 @@ Youtube: [https://www.youtube.com/channel/UCdE9KfK53bjU9Fyw1k2otPw](https://www.
 Github: [https://github.com/JustModesty/Leetcode-Python-Java-Solution](https://github.com/JustModesty/Leetcode-Python-Java-Solution)
 
 ## 贡献仓库
-欢迎有热情的同学/大佬们一起参与录制视频~
+如果视频哪里讲解得不对，欢迎大家指出。
+同时也欢迎有热情的同学/大佬们一起参与录制视频~
